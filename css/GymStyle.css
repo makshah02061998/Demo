@@ -1,0 +1,43 @@
+body
+{
+    background-image: url(../images/bgGymOp.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+div
+{
+    background-color: lightblue;
+    font-family: 'PT Serif', serif;
+    font-size:0.8em;
+    width:35%;
+    margin:100px auto;
+    text-align: center;
+   border-radius: 10px;
+  opacity:0.9; 
+    
+}
+button{
+    background-color: cadetblue;
+    padding:10px;
+    color:white;
+    font-size:1em;
+    font-family: 'PT Serif', serif;
+    margin-bottom:20px;
+    border-radius: 5px;
+
+}
+
+h1{
+    font-size: 4em;
+}
+p{
+    font-size: 1.8em;
+}
+i{
+    font-size: 4em;
+    margin:20px;
+    color:gray;
+    
+}
